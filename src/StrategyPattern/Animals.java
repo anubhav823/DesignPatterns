@@ -2,7 +2,7 @@ package StrategyPattern;
 
 public class Animals {
 
-	private Flys flyingType;
+	protected Flys flyingType;
 
 	public Flys getFlyingType() {
 		return flyingType;
